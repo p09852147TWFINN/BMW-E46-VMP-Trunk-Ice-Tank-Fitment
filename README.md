@@ -31,6 +31,18 @@ VMP 官網把這款產品列為 Mustang 後車廂冰水箱套件，也提到可�
 
 不過，這裡說的「放得進去」，是這台車的空間配置觀察。它不代表所有 E46 車型都能免修改直上，也不代表整套水路與電路已完成驗證。
 
+## 五張實物照片的觀察紀錄
+
+以下依車主提供的五張照片整理；本頁目前刊登第 4 張，其餘照片檔案尚未加入專案。
+
+1. **水箱放入備胎槽，上蓋打開。** 可以看到黑色 VMP 水箱在備胎槽內的位置，以及周圍鈑件與中央螺桿的相對位置。照片中前側兩個管口尚未接管，這張主要記錄水箱本體的空間配置。
+2. **蓋上紅色外圈的上蓋。** 同一個位置換成上蓋蓋合的狀態，可以看到上蓋、中央旋鈕和水箱本體的相對位置。
+3. **中央螺桿近照。** 可以看到黑色旋鈕、螺紋桿、墊片與金色壓盤附近的細節。這張提供固定件配置的視覺參考，不能單憑照片判斷鎖固強度或是否需要另外製作支架。
+4. **蓋回底板與灰色地毯。** 水箱被收在下方，後車廂表面恢復整齊的樣子；下方刊登的就是這張照片。
+5. **從車外拍攝後車廂全景。** 展示覆板後的整體外觀，讓人更容易理解這個配置放回日常後車廂空間後的樣子。照片沒有附高度與承重測量。
+
+這組照片最有意思的地方，就是從「真的放進去了」一路記錄到「蓋回去之後長這樣」。對我而言，這就是想分享給下一位 E46 車友的實際經驗。
+
 ## 實車照片：蓋回後車廂地毯
 
 ![TWFINN 的 BMW E46 後車廂實物照片：VMP 冰水箱放入備胎槽後，蓋回底板與灰色地毯的外觀](./image.png)
@@ -66,7 +78,7 @@ I placed a VMP Trunk Ice Tank Kit for CMAX, part number **VMP-ICE300**, in the s
 
 On my particular E46, the tank fits in the spare tire well, and I can put the trunk floor cover and carpet back over it. The photo above shows the covered trunk appearance. This is a firsthand owner fitment report; it is not a VMP-approved E46 installation guide.
 
-My supplied photos document the tank placement, lid, central threaded fastener area, and covered trunk. Only the covered-trunk photo is currently included in this repository. The exact E46 year/body style, required modifications, mounting strength, pump installation, plumbing, wiring, filled-tank road testing, and cooling performance are not documented here. Fitment on other E46 variants remains unverified.
+My supplied photos document the tank placement, lid, central threaded fastener area, and covered trunk. The five-photo observations are described above; only the covered-trunk photo is currently included in this repository. The open-tank photo shows two front-facing hose ports without hoses attached, so the placement photos should not be read as proof of a completed cooling system. The exact E46 year/body style, required modifications, mounting strength, pump installation, plumbing, wiring, filled-tank road testing, and cooling performance are not documented here. Fitment on other E46 variants remains unverified.
 
 **Product reference:** [VMP Trunk Ice Tank Kit for CMAX](https://www.vmpperformance.com/VMP-Trunk-Ice-Tank-Kit-for-CMAX)  
 **Owner / photo credit:** [TWFINN](https://github.com/p09852147TWFINN)

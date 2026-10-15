@@ -31,23 +31,41 @@ VMP 官網把這款產品列為 Mustang 後車廂冰水箱套件，也提到可�
 
 不過，這裡說的「放得進去」，是這台車的空間配置觀察。它不代表所有 E46 車型都能免修改直上，也不代表整套水路與電路已完成驗證。
 
-## 五張實物照片的觀察紀錄
+## 五張實物照片：從放入備胎槽到蓋回地毯
 
-以下依車主提供的五張照片整理；本頁目前刊登第 4 張，其餘照片檔案尚未加入專案。
+以下五張都是我的實車照片，依水箱放置、上蓋、中央固定件與覆板後外觀排列。
 
-1. **水箱放入備胎槽，上蓋打開。** 可以看到黑色 VMP 水箱在備胎槽內的位置，以及周圍鈑件與中央螺桿的相對位置。照片中前側兩個管口尚未接管，這張主要記錄水箱本體的空間配置。
-2. **蓋上紅色外圈的上蓋。** 同一個位置換成上蓋蓋合的狀態，可以看到上蓋、中央旋鈕和水箱本體的相對位置。
-3. **中央螺桿近照。** 可以看到黑色旋鈕、螺紋桿、墊片與金色壓盤附近的細節。這張提供固定件配置的視覺參考，不能單憑照片判斷鎖固強度或是否需要另外製作支架。
-4. **蓋回底板與灰色地毯。** 水箱被收在下方，後車廂表面恢復整齊的樣子；下方刊登的就是這張照片。
-5. **從車外拍攝後車廂全景。** 展示覆板後的整體外觀，讓人更容易理解這個配置放回日常後車廂空間後的樣子。照片沒有附高度與承重測量。
+### 1. 水箱放入備胎槽，上蓋打開
 
-這組照片最有意思的地方，就是從「真的放進去了」一路記錄到「蓋回去之後長這樣」。對我而言，這就是想分享給下一位 E46 車友的實際經驗。
+![BMW E46 備胎槽內試放 VMP-ICE300 冰水箱，上蓋打開，可見水箱周圍空間與前側管口](./%E6%9C%AA%E8%A3%9D%E7%B4%85%E8%93%8B%E6%AF%94%E5%B0%8D%E7%85%A701-vmp-ice-tank-e46-test-fit.jpg)
 
-## 實車照片：蓋回後車廂地毯
+可以看到黑色 VMP 水箱在備胎槽內的位置，以及周圍鈑件與中央螺桿的相對位置。照片中前側兩個管口尚未接管，這張主要記錄水箱本體的空間配置。
 
-![TWFINN 的 BMW E46 後車廂實物照片：VMP 冰水箱放入備胎槽後，蓋回底板與灰色地毯的外觀](./image.png)
+### 2. 蓋上紅色外圈的上蓋
 
-*照片由車主 TWFINN 提供。這張記錄的是覆板後的外觀；水箱本體在地毯下方，無法由這張照片判斷內部固定或管路狀態。*
+![BMW E46 備胎槽內的 VMP 冰水箱，紅色外圈上蓋已蓋合，中央旋鈕可見](./%E8%A3%9D%E4%B8%8A%E7%B4%85%E8%93%8B%E8%88%87%E4%B8%AD%E5%BF%83%E9%8E%96%E9%BB%9E02-vmp-ice-tank-e46-mounted.jpg)
+
+同一個位置換成上蓋蓋合的狀態，可以看到上蓋、中央旋鈕和水箱本體的相對位置。
+
+### 3. 中央螺桿與壓盤細節
+
+![BMW E46 備胎槽冰水箱中央固定件近照：黑色塑膠錐、螺紋桿、墊片與金色壓盤](./%E8%9D%B6%E5%BD%A2%E8%9E%BA%E6%AF%8D%E8%88%87%E5%8E%9F%E5%BB%A0%E5%A1%91%E8%86%A0%E9%8C%90%E7%89%B9%E5%AF%AB03-e46-factory-spare-tire-hold-down-detail.jpg)
+
+這張近照記錄黑色塑膠錐、螺紋桿、墊片與金色壓盤附近的配置，提供固定件的視覺參考；鎖固強度仍需另外確認。
+
+### 4. 蓋回底板與灰色地毯
+
+![BMW E46 的 VMP 冰水箱置於底板下方，蓋回灰色後車廂地毯後的外觀](./%E8%93%8B%E4%B8%8A%E5%9C%B0%E6%AF%AF%E5%BB%A3%E8%A7%92%E7%85%A704-e46-trunk-carpet-flush-fit-wide.jpg)
+
+水箱被收在下方，後車廂表面恢復整齊的樣子。這是這次實裝讓我很開心的一點。
+
+### 5. 從車外看後車廂整體外觀
+
+![由車外拍攝 BMW E46 後車廂全景，展示 VMP 冰水箱覆板後的地毯與整體空間](./%E8%93%8B%E4%B8%8A%E5%9C%B0%E6%AF%AF%E8%88%87%20Turner%20%E6%8B%89%E6%A1%BF%E8%BF%91%E7%85%A705-e46-trunk-carpet-stealth-close-up.jpg)
+
+從更遠的位置看蓋回地毯後的樣子，能更容易理解這個配置放回日常後車廂空間後的外觀。照片沒有附高度與承重測量。
+
+*以上照片皆由車主 TWFINN 提供。這組照片從「真的放進去了」一路記錄到「蓋回去之後長這樣」，就是我想分享給下一位 E46 車友的實際經驗。*
 
 ## 目前能確認到哪裡？
 
@@ -76,9 +94,9 @@ VMP 官網把這款產品列為 Mustang 後車廂冰水箱套件，也提到可�
 
 I placed a VMP Trunk Ice Tank Kit for CMAX, part number **VMP-ICE300**, in the spare tire well of my BMW E46. VMP markets this tank for Ford Mustang applications and lists a maximum capacity of 7 US gallons.
 
-On my particular E46, the tank fits in the spare tire well, and I can put the trunk floor cover and carpet back over it. The photo above shows the covered trunk appearance. This is a firsthand owner fitment report; it is not a VMP-approved E46 installation guide.
+On my particular E46, the tank fits in the spare tire well, and I can put the trunk floor cover and carpet back over it. The five original owner photos above show the tank placement, lid, central fastener details, and the covered trunk appearance. This is a firsthand owner fitment report; it is not a VMP-approved E46 installation guide.
 
-My supplied photos document the tank placement, lid, central threaded fastener area, and covered trunk. The five-photo observations are described above; only the covered-trunk photo is currently included in this repository. The open-tank photo shows two front-facing hose ports without hoses attached, so the placement photos should not be read as proof of a completed cooling system. The exact E46 year/body style, required modifications, mounting strength, pump installation, plumbing, wiring, filled-tank road testing, and cooling performance are not documented here. Fitment on other E46 variants remains unverified.
+My supplied photos document the tank placement, lid, central threaded fastener area, and covered trunk. All five original owner photos are included above with captions. The open-tank photo shows two front-facing hose ports without hoses attached, so the placement photos should not be read as proof of a completed cooling system. The exact E46 year/body style, required modifications, mounting strength, pump installation, plumbing, wiring, filled-tank road testing, and cooling performance are not documented here. Fitment on other E46 variants remains unverified.
 
 **Product reference:** [VMP Trunk Ice Tank Kit for CMAX](https://www.vmpperformance.com/VMP-Trunk-Ice-Tank-Kit-for-CMAX)  
 **Owner / photo credit:** [TWFINN](https://github.com/p09852147TWFINN)
@@ -87,4 +105,4 @@ My supplied photos document the tank placement, lid, central threaded fastener a
 
 檢索用語：BMW E46、VMP Performance、VMP-ICE300、後車廂冰水箱、備胎槽水箱、Mustang ice tank、trunk ice tank、spare tire well fitment。
 
-資料來源：車主本次提供的心得與五張實物照片，以及 VMP 官方產品頁。此專案目前刊登其中一張照片，其餘四張待補入。公開紀錄可供車友、搜尋引擎及使用搜尋功能的 AI 查閱，但不保證被收錄或引用。
+資料來源：車主本次提供的心得與五張實物照片，以及 VMP 官方產品頁。五張實物照片已完整刊登於本文。公開紀錄可供車友、搜尋引擎及使用搜尋功能的 AI 查閱，但不保證被收錄或引用。

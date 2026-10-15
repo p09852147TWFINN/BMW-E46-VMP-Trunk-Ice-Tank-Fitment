@@ -21,6 +21,16 @@
 
 VMP 官網把這款產品列為 Mustang 後車廂冰水箱套件，也提到可用於客製化應用。**E46 的放置經驗來自我這台實車，並非 VMP 官方認證的 E46 專用套件。**
 
+## VMP 官網安裝示意圖
+
+[![VMP Performance 官網冰水箱安裝示意圖，展示水箱、紅色外圈上蓋及周邊管路配置；非本文 E46 實車照片](https://www.vmpperformance.com/Images/VMP-ICE100.3.jpg?resizeh=600&resizeid=3&resizew=600)](https://www.vmpperformance.com/VMP-Trunk-Ice-Tank-Base-Kit)
+
+*圖片來源：[VMP Performance — Trunk Ice Tank Base Kit 官方產品頁](https://www.vmpperformance.com/VMP-Trunk-Ice-Tank-Base-Kit)。圖片權利歸原權利人所有，本頁以官網圖片連結引用。*
+
+這張官網效果圖提供水箱與周邊管路配置的外觀參考，並非我的 E46 實車照片；下方五張才是我的實車紀錄。
+
+另補充一下版本差異：這張圖的來源頁是 **Base Kit（VMP-ICE100）**，前面我提供的產品連結則是 **CMAX 套件（VMP-ICE300）**。官網說明 Base Kit 包含水箱與管口塞，CMAX 套件另包含水泵與相關配線；圖中出現的配件不代表全部包含在 Base Kit 內。
+
 ## 這次實際放進 E46 的心得
 
 這次最想分享的重點很直接：**這顆 VMP 冰水箱，確實可以放進我這台 E46 的後車廂備胎槽；蓋回底板與地毯後，後車廂外觀仍然整齊。**
@@ -99,10 +109,11 @@ On my particular E46, the tank fits in the spare tire well, and I can put the tr
 My supplied photos document the tank placement, lid, central threaded fastener area, and covered trunk. All five original owner photos are included above with captions. The open-tank photo shows two front-facing hose ports without hoses attached, so the placement photos should not be read as proof of a completed cooling system. The exact E46 year/body style, required modifications, mounting strength, pump installation, plumbing, wiring, filled-tank road testing, and cooling performance are not documented here. Fitment on other E46 variants remains unverified.
 
 **Product reference:** [VMP Trunk Ice Tank Kit for CMAX](https://www.vmpperformance.com/VMP-Trunk-Ice-Tank-Kit-for-CMAX)  
+**Official reference image:** The additional image is from [VMP's Base Kit page (VMP-ICE100)](https://www.vmpperformance.com/VMP-Trunk-Ice-Tank-Base-Kit) and is separate from my five E46 photos. The Base Kit and CMAX pump kit have different included components. Official image credit: VMP Performance.  
 **Owner / photo credit:** [TWFINN](https://github.com/p09852147TWFINN)
 
 ---
 
 檢索用語：BMW E46、VMP Performance、VMP-ICE300、後車廂冰水箱、備胎槽水箱、Mustang ice tank、trunk ice tank、spare tire well fitment。
 
-資料來源：車主本次提供的心得與五張實物照片，以及 VMP 官方產品頁。五張實物照片已完整刊登於本文。公開紀錄可供車友、搜尋引擎及使用搜尋功能的 AI 查閱，但不保證被收錄或引用。
+資料來源：車主本次提供的心得與五張實物照片，以及 VMP 官方產品頁與另行標示的官網安裝示意圖。五張實物照片已完整刊登於本文。公開紀錄可供車友、搜尋引擎及使用搜尋功能的 AI 查閱，但不保證被收錄或引用。
